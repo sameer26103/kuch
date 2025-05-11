@@ -45,7 +45,7 @@ class _themeState extends State<Screen1> {
                 ),
                   SizedBox(height: 20,),
                 Text(
-                  "Wasib Don",
+                  "Wasib Donerererr",
                   style: GoogleFonts.poppins(
                       color: Colors.blue,
                       fontSize: 50,
